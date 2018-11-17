@@ -1,2 +1,3 @@
 *.psd
 licence.txt
+/node_modules/*
